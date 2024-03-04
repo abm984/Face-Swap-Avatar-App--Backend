@@ -14,16 +14,11 @@ Open your terminal or command prompt and navigate to the directory where you wan
 Clone the repository:
 Use the git clone command followed by the URL of the GitHub repository you want to clone. For example:
 
-bash
-Copy code
-'git clone https://github.com/abm984/Face-Swap-Avatar-App--Backend.git'
 
 
-Navigate into the cloned repository:
-Once the repository is cloned, navigate into its directory using the cd command. For example:
 
-'''python
-'cd Face-Swap-Avatar-App--Backend'
+
+cd Face-Swap-Avatar-App--Backend
 Replace repository with the name of the cloned repository.
 
 Install requirements:
@@ -54,7 +49,11 @@ Autoencoders: Autoencoders are neural network architectures used for unsupervise
 Face-swapping algorithms: These algorithms analyze and modify facial features in images or videos to replace one person's face with another. Deep learning techniques are often used to achieve realistic face swapping.
 
 Deepfake technology has both positive and negative implications:
-
+```python
+git clone https://github.com/abm984/Face-Swap-Avatar-App--Backend.git
+cd Face-Swap-Avatar-App--Backend
+pip install -r requirements.txt
+python app.py
 Positive: It has potential applications in entertainment, filmmaking, and digital content creation, allowing for realistic special effects and visual storytelling.
 Negative: Deepfakes can be used maliciously to spread misinformation, create fake news, manipulate public opinion, harass individuals, or engage in identity theft and fraud.
 As deepfake technology continues to advance, there are growing concerns about its potential misuse and the need for detection and mitigation techniques to address its negative consequences. Researchers and policymakers are actively working to develop strategies to detect and counteract deepfake content.
