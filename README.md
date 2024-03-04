@@ -1,4 +1,4 @@
-# Face-Swap-Avatar-App--Backend
+# Face-Swap-Avatar Backend
 InsightFace is a deep learning-based face recognition library. It provides implementations of various face recognition algorithms and models, primarily based on deep convolutional neural networks (CNNs). The library offers tools for face detection, alignment, feature extraction, and face identification or verification.
 
 Developed by the InsightFace team, this library is widely used in research and practical applications where accurate and efficient face recognition capabilities are required. It includes pre-trained models trained on large-scale face datasets such as MS-Celeb-1M and MegaFace, which enables users to perform face recognition tasks with minimal effort.
