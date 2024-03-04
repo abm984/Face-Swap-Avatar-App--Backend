@@ -22,19 +22,20 @@ Copy code
 Navigate into the cloned repository:
 Once the repository is cloned, navigate into its directory using the cd command. For example:
 
-bash
-Copy code
+'''python
 'cd Face-Swap-Avatar-App--Backend'
 Replace repository with the name of the cloned repository.
 
 Install requirements:
 After navigating into the repository directory, you can use a package manager like pip to install the requirements listed in the requirements.txt file. Use the following command:
 
-Copy code
+'''python
 'pip install -r requirements.txt'
 This command will install all the required packages specified in the requirements.txt file.
 
 After following these steps, you should have the repository cloned into your local system, and all the required dependencies installed. You can then proceed with your development or usage of the repository.
 Run 
-<python app.py>
+
+'''python
+'python app.py'
 Please Replace your credentials in app.py
