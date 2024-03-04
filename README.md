@@ -49,11 +49,12 @@ Autoencoders: Autoencoders are neural network architectures used for unsupervise
 Face-swapping algorithms: These algorithms analyze and modify facial features in images or videos to replace one person's face with another. Deep learning techniques are often used to achieve realistic face swapping.
 
 Deepfake technology has both positive and negative implications:
+Positive: It has potential applications in entertainment, filmmaking, and digital content creation, allowing for realistic special effects and visual storytelling.
+Negative: Deepfakes can be used maliciously to spread misinformation, create fake news, manipulate public opinion, harass individuals, or engage in identity theft and fraud.
+As deepfake technology continues to advance, there are growing concerns about its potential misuse and the need for detection and mitigation techniques to address its negative consequences. Researchers and policymakers are actively working to develop strategies to detect and counteract deepfake content.
 ```python
 git clone https://github.com/abm984/Face-Swap-Avatar-App--Backend.git
 cd Face-Swap-Avatar-App--Backend
 pip install -r requirements.txt
 python app.py
-Positive: It has potential applications in entertainment, filmmaking, and digital content creation, allowing for realistic special effects and visual storytelling.
-Negative: Deepfakes can be used maliciously to spread misinformation, create fake news, manipulate public opinion, harass individuals, or engage in identity theft and fraud.
-As deepfake technology continues to advance, there are growing concerns about its potential misuse and the need for detection and mitigation techniques to address its negative consequences. Researchers and policymakers are actively working to develop strategies to detect and counteract deepfake content.
+
