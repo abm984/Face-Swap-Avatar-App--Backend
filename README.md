@@ -16,7 +16,7 @@ Use the git clone command followed by the URL of the GitHub repository you want 
 
 bash
 Copy code
-<git clone https://github.com/abm984/Face-Swap-Avatar-App--Backend.git>
+'git clone https://github.com/abm984/Face-Swap-Avatar-App--Backend.git'
 
 
 Navigate into the cloned repository:
@@ -24,14 +24,14 @@ Once the repository is cloned, navigate into its directory using the cd command.
 
 bash
 Copy code
-<cd Face-Swap-Avatar-App--Backend>
+'cd Face-Swap-Avatar-App--Backend'
 Replace repository with the name of the cloned repository.
 
 Install requirements:
 After navigating into the repository directory, you can use a package manager like pip to install the requirements listed in the requirements.txt file. Use the following command:
 
 Copy code
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 This command will install all the required packages specified in the requirements.txt file.
 
 After following these steps, you should have the repository cloned into your local system, and all the required dependencies installed. You can then proceed with your development or usage of the repository.
