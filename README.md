@@ -52,6 +52,14 @@ Deepfake technology has both positive and negative implications:
 Positive: It has potential applications in entertainment, filmmaking, and digital content creation, allowing for realistic special effects and visual storytelling.
 Negative: Deepfakes can be used maliciously to spread misinformation, create fake news, manipulate public opinion, harass individuals, or engage in identity theft and fraud.
 As deepfake technology continues to advance, there are growing concerns about its potential misuse and the need for detection and mitigation techniques to address its negative consequences. Researchers and policymakers are actively working to develop strategies to detect and counteract deepfake content.
+
+![1111](https://github.com/abm984/Face-Swap-Avatar-App--Backend/assets/98699771/1e74382c-66f4-41e7-998d-5925034c02ca)
+![image](https://github.com/abm984/Face-Swap-Avatar-App--Backend/assets/98699771/2457a1f0-6d0d-4f1e-ba81-f269a8c07283)
+![image](https://github.com/abm984/Face-Swap-Avatar-App--Backend/assets/98699771/463b9850-8645-4fcf-ae62-2782b298348c)
+
+
+
+
 ```python
 git clone https://github.com/abm984/Face-Swap-Avatar-App--Backend.git
 cd Face-Swap-Avatar-App--Backend
